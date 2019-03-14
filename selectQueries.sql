@@ -1,7 +1,5 @@
 show databases;
 
-
-
 use world_innodb;
 
 select name,population from city where name = "portland";
